@@ -1,13 +1,7 @@
-h2.intro{
+.intro{
   font-weight: bold;
   color: #9995f4;
-}
-
-p.intro{
   width:60%;
-  font-style: italic;
-}
-
-img.intro{
-  border:15px solid #9995f4;
+  font-style: italic
+  
 }
